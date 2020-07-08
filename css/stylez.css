@@ -11,6 +11,7 @@ h2 {
 
 p {
   font-family: sans-serif;
+  font-size: 30px;
 }
 
 ul {
@@ -33,4 +34,9 @@ strong {
 
 em {
   font-weight: bolder;
+}
+
+.you {
+  color: red;
+  font-size: 20px;
 }
